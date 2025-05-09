@@ -1,0 +1,109 @@
+2025-05-07 18:01:15,393 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-07 18:02:58,268 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-07 18:03:00,456 - db_helper - INFO - delete_expenses_for_date called with 2024-08-01
+2025-05-07 18:03:00,525 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2025-05-07 18:03:00,566 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-05-07 18:03:00,601 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-05-07 18:03:00,633 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-05-07 18:03:12,932 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-07
+2025-05-07 18:03:51,804 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-07
+2025-05-07 18:03:53,927 - db_helper - INFO - delete_expenses_for_date called with 2025-05-07
+2025-05-07 18:03:53,944 - db_helper - INFO - insert_expense called with date: 2025-05-07, amount: 50.0, category: Other, notes: Fuel
+2025-05-07 18:03:53,984 - db_helper - INFO - insert_expense called with date: 2025-05-07, amount: 15.2, category: Food, notes: Oil
+2025-05-07 18:04:19,832 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-07
+2025-05-07 18:04:22,016 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-05-07 18:48:47,142 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-07 18:48:49,384 - db_helper - INFO - fetch_expense_summary_by_months
+2025-05-07 18:49:26,782 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-07 18:49:28,866 - db_helper - INFO - fetch_expense_summary_by_months
+2025-05-09 14:53:15,045 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 14:54:12,174 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 14:54:51,613 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 15:06:01,503 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 15:08:11,479 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 15:08:49,140 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:09:48,415 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:09:50,510 - db_helper - INFO - Deleting expenses for date: 2025-05-09
+2025-05-09 15:09:50,548 - db_helper - INFO - Inserting expense - Date: 2025-05-09, Amount: 400.0, Category: Rent, Notes: 
+2025-05-09 15:09:50,575 - db_helper - INFO - Inserting expense - Date: 2025-05-09, Amount: 45.0, Category: Food, Notes: Biryani
+2025-05-09 15:09:50,588 - db_helper - INFO - Inserting expense - Date: 2025-05-09, Amount: 40.0, Category: Other, Notes: Gas
+2025-05-09 15:10:18,674 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:10:20,423 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:10:22,504 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2025-05-09
+2025-05-09 15:10:45,380 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:12:06,123 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:12:06,341 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:12:06,522 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:12:06,706 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:12:11,451 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:12:18,084 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:12:18,303 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:12:18,800 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 15:12:22,014 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 16:55:01,597 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 16:55:12,195 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 16:55:24,988 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 16:55:25,174 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 16:55:25,348 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 16:55:25,526 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 16:55:25,740 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 16:55:25,903 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 16:55:26,147 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 16:55:31,982 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:03:05,940 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:04:26,578 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:06:48,501 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:06:49,446 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:06:53,142 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:14:16,804 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:14:28,844 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:15:23,616 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:17:37,388 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:17:42,376 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:17:44,506 - db_helper - INFO - Fetching monthly summary from 2024-08-01 to 2024-09-01
+2025-05-09 17:18:47,766 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:18:49,396 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:18:51,526 - db_helper - INFO - Fetching monthly summary from 2024-09-01 to 2024-10-01
+2025-05-09 17:19:32,154 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:19:33,767 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:19:35,902 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-11-05
+2025-05-09 17:20:29,546 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-09 17:21:39,426 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:21:40,855 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:21:41,093 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:21:41,605 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:21:41,956 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:21:53,823 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:21:55,927 - db_helper - INFO - Fetching monthly summary from 2025-05-01 to 2025-06-01
+2025-05-09 17:31:37,765 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:31:39,896 - db_helper - INFO - Deleting expenses for date: 2025-05-09
+2025-05-09 17:31:39,942 - db_helper - INFO - Inserting expense - Date: 2025-05-09, Amount: 0.0, Category: , Notes: 
+2025-05-09 17:31:53,194 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:47:47,924 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:51:40,904 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:53:54,677 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:55:46,276 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:56:05,954 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 17:57:29,605 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 18:10:36,800 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 18:10:57,192 - db_helper - INFO - Fetching expenses for date: 2025-05-08
+2025-05-09 18:12:24,547 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 18:14:00,683 - db_helper - INFO - Fetching expenses for date: 2025-05-10
+2025-05-09 18:14:05,010 - db_helper - INFO - Fetching expenses for date: 2025-05-10
+2025-05-09 18:17:57,572 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 18:18:59,442 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 18:19:08,392 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 18:19:10,540 - db_helper - INFO - Deleting expenses for date: 2025-05-09
+2025-05-09 18:19:10,584 - db_helper - INFO - Inserting expense - Date: 2025-05-09, Amount: 400.0, Category: Rent, Notes: May
+2025-05-09 18:19:10,607 - db_helper - INFO - Inserting expense - Date: 2025-05-09, Amount: 45.0, Category: Food, Notes: Biryani
+2025-05-09 18:19:10,630 - db_helper - INFO - Inserting expense - Date: 2025-05-09, Amount: 30.0, Category: Other, Notes: Gas
+2025-05-09 18:19:10,651 - db_helper - INFO - Inserting expense - Date: 2025-05-09, Amount: 60.0, Category: Entertainment, Notes: Movie
+2025-05-09 18:19:10,664 - db_helper - INFO - Inserting expense - Date: 2025-05-09, Amount: 25.0, Category: Shopping, Notes: Tshirt
+2025-05-09 18:19:19,546 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 18:19:21,640 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2025-05-09 18:19:33,112 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 18:19:35,277 - db_helper - INFO - Fetching monthly summary from 2024-08-01 to 2024-09-01
+2025-05-09 18:35:08,618 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 18:35:10,704 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2025-05-09 18:36:01,186 - db_helper - INFO - Fetching expenses for date: 2025-05-09
+2025-05-09 18:36:03,301 - db_helper - INFO - Fetching monthly summary from 2024-08-01 to 2024-09-01
