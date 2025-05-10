@@ -77,7 +77,7 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-![monthly report](Expense_Monthly-Report.png) ![add expense](Add_Expense.png) ![expense analytics](Expense_Analytics.png)
+![monthly report](images/Expense_Monthly-Report.png) ![add expense](images/Add_Expense.png) ![expense analytics](images/Expense_Analytics.png)
 
 ## 🧑‍💻 Author
 
