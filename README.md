@@ -33,8 +33,8 @@ project_expense_tracking/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/project_expense_tracking.git
-cd project_expense_tracking
+git clone https://github.com/abhishek96405/Expense_Tracking.git
+cd Expense_Tracking
 ```
 
 ### 2. Create and activate a virtual environment
